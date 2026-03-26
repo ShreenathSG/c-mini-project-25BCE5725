@@ -28,7 +28,7 @@ A simple C program to manage student attendance. Teachers can add students, mark
 - Linux/Mac/Windows terminal
 
 ## Author
-Your Name
+Shreenath S G
 
 ## License
 Open source - feel free to use and modify
